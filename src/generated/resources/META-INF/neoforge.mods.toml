@@ -8,13 +8,13 @@ license="MIT License"
 
 modId="apothic_attributes"
 
-version="2.9.0"
+version="2.9.0c"
 
 displayName="Apothic Attributes"
 
-authors="Shadows_of_Fire"
+authors="Shadows_of_Fire, MapleSugar365"
 
-description='''A library mod providing Attributes and related things.'''
+description='''A library mod providing Attributes and related things. But this is an alternative version of the flying potion.'''
 
 [[mixins]]
 config="apothic_attributes.mixins.json"

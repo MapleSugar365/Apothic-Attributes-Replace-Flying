@@ -107,7 +107,7 @@
     "effect.apothic_attributes.knowledge": "Ancient Knowledge",
     "effect.apothic_attributes.vitality": "Bursting Vitality",
     "effect.apothic_attributes.grievous": "Grievous Wounds",
-    "effect.apothic_attributes.flying": "Flying",
+    "effect.apothic_attributes.flying": "Rapid Riptide Rush",
 
     "effect.apothic_attributes.sundering": "Sundering",
     "effect.apothic_attributes.sundering.desc": "Increases damage received.",
@@ -203,8 +203,8 @@
     "item.minecraft.lingering_potion.effect.apothic_attributes.grievous": "Lingering Potion of Healing Reduction",
     "item.minecraft.tipped_arrow.effect.apothic_attributes.grievous": "Arrow of Healing Reduction",
 
-    "item.minecraft.potion.effect.apothic_attributes.flying": "Potion of Flying",
-    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "Splash Potion of Flying",
-    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Lingering Potion of Flying",
-    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Arrow of Flying"
+    "item.minecraft.potion.effect.apothic_attributes.flying": "Potion of Rapid Riptide Rush",
+    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "Splash Potion of Rapid Riptide Rush",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Lingering Potion of Rapid Riptide Rush",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Arrow of Rapid Riptide Rush"
 }
