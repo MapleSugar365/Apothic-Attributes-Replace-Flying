@@ -97,17 +97,17 @@
     "apothic_attributes:dodge_chance.desc": "有概率闪避近战攻击或弹射物。",
 
     "apothic_attributes:elytra_flight": "鞘翅飞行",
-    "apothic_attributes:elytra_flight.desc": "你能像穿戴鞘翅一样飞行。",
+    "apothic_attributes:elytra_flight.desc": "我要飞得更高！",
 
-    "apothic_attributes:creative_flight": "创造模式飞行",
-    "apothic_attributes:creative_flight.desc": "你能像创造模式一样飞行。",
+    "apothic_attributes:creative_flight": "激流“泳”进",
+    "apothic_attributes:creative_flight.desc": "提高100%的游泳速度。",
 
     "comment_id": "MobFx - descriptions are duplicated for JEED support.",
 
     "effect.apothic_attributes.knowledge": "古代知识",
     "effect.apothic_attributes.vitality": "活力迸发",
     "effect.apothic_attributes.grievous": "重伤",
-    "effect.apothic_attributes.flying": "飞行",
+    "effect.apothic_attributes.flying": "激流“泳”进",
 
     "effect.apothic_attributes.sundering": "破甲",
     "effect.apothic_attributes.sundering.desc": "增加受到的伤害。",
@@ -203,8 +203,8 @@
     "item.minecraft.lingering_potion.effect.apothic_attributes.grievous": "滞留型治疗减少药水",
     "item.minecraft.tipped_arrow.effect.apothic_attributes.grievous": "治疗减少之箭",
 
-    "item.minecraft.potion.effect.apothic_attributes.flying": "飞行药水",
-    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "喷溅型飞行药水",
-    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "滞留型飞行药水",
-    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "飞行之箭"
+    "item.minecraft.potion.effect.apothic_attributes.flying": "激流“泳”进药水",
+    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "喷溅型激流“泳”进药水",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "滞留型激流“泳”进药水",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "激流“泳”进之箭"
 }

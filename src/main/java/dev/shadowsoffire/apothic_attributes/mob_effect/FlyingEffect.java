@@ -12,7 +12,7 @@ public class FlyingEffect extends MobEffect {
 
     public FlyingEffect() {
         super(MobEffectCategory.BENEFICIAL, ChatFormatting.RED.getColor());
-        this.addAttributeModifier(NeoForgeMod.CREATIVE_FLIGHT, ApothicAttributes.loc("flying"), 1, Operation.ADD_VALUE);
+        this.addAttributeModifier(NeoForgeMod.SWIM_SPEED, ApothicAttributes.loc("flying"), 1, Operation.ADD_VALUE);
     }
 
     @Override
