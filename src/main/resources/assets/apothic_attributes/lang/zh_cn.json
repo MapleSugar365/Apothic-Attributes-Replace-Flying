@@ -102,6 +102,9 @@
     "apothic_attributes:creative_flight": "激流“泳”进",
     "apothic_attributes:creative_flight.desc": "提高100%的游泳速度。",
 
+    "apothic_attributes:cooldown_reduction": "冷却缩减",
+    "apothic_attributes:cooldown_reduction.desc": "减少技能与效果的冷却时间 ⌛ 。",
+
     "comment_id": "MobFx - descriptions are duplicated for JEED support.",
 
     "effect.apothic_attributes.knowledge": "古代知识",

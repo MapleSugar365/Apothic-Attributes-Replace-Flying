@@ -99,8 +99,11 @@
     "apothic_attributes:elytra_flight": "Elytra Flight",
     "apothic_attributes:elytra_flight.desc": "If you can fly as if wearing an Elytra.",
 
-    "apothic_attributes:creative_flight": "Creative Flight",
-    "apothic_attributes:creative_flight.desc": "If you can fly as if in Creative Mode.",
+    "apothic_attributes:creative_flight": "Rapid Riptide Rush",
+    "apothic_attributes:creative_flight.desc": "Swimming speed increased by 100%.",
+
+    "apothic_attributes:cooldown_reduction": "Cooldown Reduction",
+    "apothic_attributes:cooldown_reduction.desc": "Reduces the cooldown of triggered abilities and effects. Cooldowns use the ⌛ symbol.",
 
     "comment_id": "MobFx - descriptions are duplicated for JEED support.",
 
