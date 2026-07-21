@@ -105,9 +105,6 @@
     "apothic_attributes:cooldown_reduction": "Cooldown Reduction",
     "apothic_attributes:cooldown_reduction.desc": "Reduces the cooldown of triggered abilities and effects. Cooldowns use the ⌛ symbol.",
 
-    "apothic_attributes:cooldown_reduction": "Cooldown Reduction",
-    "apothic_attributes:cooldown_reduction.desc": "Reduces the cooldown of triggered abilities and effects. Cooldowns use the ⌛ symbol.",
-
     "comment_id": "MobFx - descriptions are duplicated for JEED support.",
 
     "effect.apothic_attributes.knowledge": "Ancient Knowledge",
