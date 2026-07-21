@@ -14,7 +14,7 @@ displayName="Apothic Attributes"
 
 authors="Shadows_of_Fire ,MapleSugar365"
 
-description='''A library mod providing Attributes and related things, But this is an alternative version of the flying potion..'''
+description='''A library mod providing Attributes and related things, But this is an alternative version of the flying potion.'''
 
 [[mixins]]
 config="apothic_attributes.mixins.json"
