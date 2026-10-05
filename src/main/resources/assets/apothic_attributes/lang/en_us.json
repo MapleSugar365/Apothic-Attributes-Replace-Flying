@@ -99,8 +99,8 @@
     "apothic_attributes:elytra_flight": "Elytra Flight",
     "apothic_attributes:elytra_flight.desc": "If you can fly as if wearing an Elytra.",
 
-    "apothic_attributes:creative_flight": "Creative Flight",
-    "apothic_attributes:creative_flight.desc": "If you can fly as if in Creative Mode.",
+    "apothic_attributes:creative_flight": "Rapid Riptide Rush",
+    "apothic_attributes:creative_flight.desc": "Increase swimming speed by 200%.",
 
     "apothic_attributes:cooldown_reduction": "Cooldown Reduction",
     "apothic_attributes:cooldown_reduction.desc": "Reduces the cooldown of triggered abilities and effects. Cooldowns use the ⌛ symbol.",
@@ -110,7 +110,7 @@
     "effect.apothic_attributes.knowledge": "Ancient Knowledge",
     "effect.apothic_attributes.vitality": "Bursting Vitality",
     "effect.apothic_attributes.grievous": "Grievous Wounds",
-    "effect.apothic_attributes.flying": "Flying",
+    "effect.apothic_attributes.flying": "Rapid Riptide Rush",
 
     "effect.apothic_attributes.sundering": "Sundering",
     "effect.apothic_attributes.sundering.desc": "Increases damage received.",
@@ -206,8 +206,8 @@
     "item.minecraft.lingering_potion.effect.apothic_attributes.grievous": "Lingering Potion of Healing Reduction",
     "item.minecraft.tipped_arrow.effect.apothic_attributes.grievous": "Arrow of Healing Reduction",
 
-    "item.minecraft.potion.effect.apothic_attributes.flying": "Potion of Flying",
-    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "Splash Potion of Flying",
-    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Lingering Potion of Flying",
-    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Arrow of Flying"
+    "item.minecraft.potion.effect.apothic_attributes.flying": "Potion of Rapid Riptide Rush",
+    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "Splash Potion of Rapid Riptide Rush",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Lingering Potion of Rapid Riptide Rush",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Arrow of Rapid Riptide Rush"
 }
